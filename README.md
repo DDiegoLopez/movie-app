@@ -1,8 +1,46 @@
-# React + Vite
+# Movie App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Movie App is a responsive web application built with Vite, React, and Tailwind CSS. It leverages The Movie Database (TMDB) API to let users search for movies and view details such as posters, titles, ratings, and release dates—all in a sleek, user-friendly interface.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **Responsive Design:** Optimized for all devices.
+- **Movie Search:** Quickly find movies using the TMDB API.
+- **Detailed Information:** View movie posters, titles, ratings, and release dates.
+
+## Technologies Used
+
+- **Vite:** A fast, modern build tool.
+- **React:** For building the user interface.
+- **Tailwind CSS:** For streamlined, utility-first styling.
+- **TMDB API:** To fetch real-time movie data.
+
+## Installation
+
+1. **Clone the Repository:**
+
+   ```bash
+   git clone https://github.com/DDiegoLopez/movie-app.git
+
+2. **Navigate to the Project Directory:**
+
+   ```bash
+   cd movie-app
+   
+3. **Install Dependencies:**
+
+   ```bash
+   npm install
+
+4. **Start the Development Server:**
+
+   ```bash
+   npm run dev
+
+## Credits 
+
+Special thanks to **JS Mastery** for their outstanding tutorial, which provided the inspiration and guidance for this project.
+
+## Licence
+
+This project is licensed under the Do What You Want To Public License.
