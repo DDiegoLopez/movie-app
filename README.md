@@ -37,10 +37,6 @@ Movie App is a responsive web application built with Vite, React, and Tailwind C
    ```bash
    npm run dev
 
-## Credits 
-
-Special thanks to **JS Mastery** for their outstanding tutorial, which provided the inspiration and guidance for this project.
-
 ## Licence
 
 This project is licensed under the Do What You Want To Public License.
